@@ -383,9 +383,3 @@ async def msg(ctx):
 
         await ctx.channel.purge(limit=1)
         await ctx.send(embed=embed)
-
-
-
-
-
-client.run("NjMzMDkxNzQxNDE4OTEzODM4.XaO8Ww.obv3cF7KIsq7hEXazlTkQoJJPpE")
